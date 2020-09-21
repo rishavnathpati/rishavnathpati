@@ -3,7 +3,7 @@
 <a href="https://www.freecounterstat.com" title="page view counter"><img src="https://counter3.stat.ovh/private/freecounterstat.php?c=kkmrrkcf9ycfw45klcc2s8rzf3268sxg" border="0" title="page view counter" alt="page view counter"></a>
 
 - 🔭 I’m currently working on a game called The Dungeon Escape <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🌱 I’m currently learning Android Development using Flutter
+- 🌱 I’m currently learning Android Development using Flutter <img src="https://media1.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.gifcid=ecf05e47qqss09ehpfi63em1zwgxnzx81u1te2cl18dq3cqt&rid=giphy.gif" width="30">
 - 👯 I’m looking to collaborate on Unity/Android game development
 - 🤔 I’m looking for help with Web development
 - 💬 Ask me about: I am ready to help you with anything that I know about.
