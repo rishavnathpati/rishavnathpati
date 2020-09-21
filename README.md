@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<a href="https://www.freecounterstat.com" title="page view counter"><img src="https://counter3.stat.ovh/private/freecounterstat.php?c=kkmrrkcf9ycfw45klcc2s8rzf3268sxg" border="0" title="page view counter" alt="page view counter"></a>
+<div id="sfckkmrrkcf9ycfw45klcc2s8rzf3268sxg"></div><script type="text/javascript" src="https://counter3.stat.ovh/private/counter.js?c=kkmrrkcf9ycfw45klcc2s8rzf3268sxg&down=async" async></script><noscript><a href="https://www.freecounterstat.com" title="page view counter"><img src="https://counter3.stat.ovh/private/freecounterstat.php?c=kkmrrkcf9ycfw45klcc2s8rzf3268sxg" border="0" title="page view counter" alt="page view counter"></a></noscript>
 
 - 🔭 I’m currently working on a game called The Dungeon Escape <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently learning Android Development using Flutter <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="20">
