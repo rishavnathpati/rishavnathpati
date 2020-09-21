@@ -16,7 +16,8 @@
 
 ### I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
 
-<br />
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="rishavnathpati Spotify Playing" width="350" />](https://open.spotify.com/user/pjezynd6iht6ys6q9pa02h5ob)
 
 ### Languages and Tools:
 
