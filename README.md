@@ -37,7 +37,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 <a href="https://github.com/rishavnathpati">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavnathpati&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavnathpati&theme=dark&hide_langs_below=1" />
 </a>
 
 [![My Github stats](https://github-readme-stats.vercel.app/api?username=rishavnathpati)](https://github.com/rishavnathpati/github-readme-stats)
