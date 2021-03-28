@@ -3,7 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavnathpati&label=Views&color=blue&style=plastic" alt="rishavnathpati" /> </p>
 
 
-- 🔭 I’m currently working on a game called The Dungeon Escape. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🔭 I’m currently working on a game called [The Dungeon Escape](https://github.com/rishavnathpati/Dungeon_Escape-Unity_Android) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🔭 Also working on an android app, [Real-Sketched](https://github.com/rishavnathpati/real_sketched) which takes a sketch as input, and uses GAN to fill in the colours.
 - 🌱 I’m currently learning Android Development using Flutter. <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="20">
 - 👯 I’m looking to collaborate on Unity/Android game development.
 - 🤔 I’m looking for help with Web development.
