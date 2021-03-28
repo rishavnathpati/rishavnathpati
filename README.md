@@ -40,5 +40,5 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rishavnathpati&show_icons=true&theme=radical)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rishav-nath-p-67223bb9/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/rishavnathpati/)
+[![Discord](https://img.shields.io/badge/-Discord-blueviolet?style=flat&labelColor=blueviolet&logo=Discord&logoColor=white)](https://discord.gg/HTUu7xWw)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:@patirishavnath@gmail.com)
