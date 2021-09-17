@@ -1,14 +1,14 @@
-### Welcome to my Github page <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+### Welcome to my <img src="https://media3.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30" align="center"> page <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" align="center"></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavnathpati&label=Views&color=blue&style=plastic" alt="rishavnathpati" /> </p>
 
-
-- 🔭 I’m currently working on a game called [The Dungeon Escape](https://github.com/rishavnathpati/Dungeon_Escape-Unity_Android) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🔭 Also working on an android app, [Real-Sketched](https://github.com/rishavnathpati/real_sketched) which takes a sketch as input, and uses GAN to fill in the colours.
-- 🌱 I’m currently learning Android Development using Flutter. <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="20">
+- 🔭 I’m currently working on a [Realtime-Hand-Gesture-Controlled-GUI](https://github.com/rishavnathpati/Realtime-Hand-Gesture-Controlled-GUI) project  <img src="https://media4.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="20" align="center">
+- 🔭 I’m currently working on a game called [The Dungeon Escape](https://github.com/rishavnathpati/Dungeon_Escape-Unity_Android) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center">
+- 🔭 Also working on an Android app, [Real-Sketched](https://github.com/rishavnathpati/real_sketched) which takes a sketch as input, and uses GAN to fill in the colours.
+- 🌱 Currently learning Android Development using Flutter <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="15" align="center"> and Game development using Unity.<img src="https://i.gifer.com/origin/db/db3cb258e9bbb78c5851a000742e5468_w200.gif" width="30" align="center">
 - 👯 I’m looking to collaborate on Unity/Android game development.
 - 🤔 I’m looking for help with Web development.
-- 💬 Ask me about: I am ready to help you with anything that I know about, especially tech.
+- 💬 Ask me about: I am ready to help you with anything that I know about.
 - 📫 How to reach me: patirishavnath@gmail.com
 - 😄 Pronouns: import life.friends.*;
 - ⚡ Fun fact:  Code is like humor. When you have to explain it, it’s bad.
@@ -16,9 +16,6 @@
 ### Show some ❤️ by starring some of the repositories!
 
 ### I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="rishavnathpati Spotify Playing" width="350" />](https://open.spotify.com/user/pjezynd6iht6ys6q9pa02h5ob)
 
 ### Languages and Tools:
 
