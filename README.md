@@ -2,9 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavnathpati&label=Views&color=blue&style=plastic" alt="rishavnathpati" /> </p>
 
+- 🔭 I’m currently working on a 2D game engine called [Jade Engine](https://github.com/rishavnathpati/Jade-Engine) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center">
 - 🔭 I’m currently working on a [Realtime-Hand-Gesture-Controlled-GUI](https://github.com/rishavnathpati/Realtime-Hand-Gesture-Controlled-GUI) project  <img src="https://media4.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="20" align="center">
-- 🔭 I’m currently working on a game called [The Dungeon Escape](https://github.com/rishavnathpati/Dungeon_Escape-Unity_Android) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center">
-- 🔭 Also working on an Android app, [Real-Sketched](https://github.com/rishavnathpati/real_sketched) which takes a sketch as input, and uses GAN to fill in the colours.
 - 🌱 Currently learning Android Development using Flutter <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="15" align="center"> and Game development using Unity.<img src="https://i.gifer.com/origin/db/db3cb258e9bbb78c5851a000742e5468_w200.gif" width="30" align="center">
 - 👯 I’m looking to collaborate on Unity/Android game development.
 - 🤔 I’m looking for help with Web development.
