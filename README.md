@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishav Nath Pati</h1>
-<h3 align="center">An amateur programmer, interested in Android programming and recently trying to explore the world of Game development in Unity using C#.</h3>
+<h3 align="center">An amateur programmer, interested in Android development and recently trying to explore the world of Game development using Unity & C#.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavnathpati&label=Profile%20views&color=0e75b6&style=flat" alt="rishavnathpati" /> </p>
 
