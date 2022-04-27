@@ -1,40 +1,44 @@
-### Welcome to my <img src="https://media3.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30" align="center"> page <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" align="center"></h2>
+<h1 align="center">Hi 👋, I'm Rishav Nath Pati</h1>
+<h3 align="center">An amateur programmer, interested in Android programming and recently trying to explore the world of Game development in Unity using C#.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavnathpati&label=Views&color=blue&style=plastic" alt="rishavnathpati" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavnathpati&label=Profile%20views&color=0e75b6&style=flat" alt="rishavnathpati" /> </p>
 
-- 🔭 I’m currently working on a 2D game engine called [Jade Engine](https://github.com/rishavnathpati/Jade-Engine) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center">
-- 🔭 I’m currently working on a [Realtime-Hand-Gesture-Controlled-GUI](https://github.com/rishavnathpati/Realtime-Hand-Gesture-Controlled-GUI) project  <img src="https://media4.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="20" align="center">
-- 🌱 Currently learning Android Development using Flutter <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="15" align="center"> and Game development using Unity.<img src="https://i.gifer.com/origin/db/db3cb258e9bbb78c5851a000742e5468_w200.gif" width="30" align="center">
-- 👯 I’m looking to collaborate on Unity/Android game development.
-- 🤔 I’m looking for help with Web development.
-- 💬 Ask me about: I am ready to help you with anything that I know about.
-- 📫 How to reach me: patirishavnath@gmail.com
-- 😄 Pronouns: import life.friends.*;
-- ⚡ Fun fact:  Code is like humor. When you have to explain it, it’s bad.
 
-### Show some ❤️ by starring some of the repositories!
+<p align="left"> <a href="https://twitter.com/rishavnathpati" target="blank"><img src="https://img.shields.io/twitter/follow/rishavnathpati?logo=twitter&style=for-the-badge" alt="rishavnathpati" /></a> </p>
 
-### I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+- 🔭 I’m currently working on [Jade Engine](https://github.com/rishavnathpati/Jade-Engine)
 
-### Languages and Tools:
+- 🌱 I’m currently learning **Unity/C#, Kotlin, Flutter and Dart**
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" ></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/android/android.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+- 👯 I’m looking to collaborate on [Realtime Hand Gesture Controlled GUI](https://github.com/rishavnathpati/Realtime-Hand-Gesture-Controlled-GUI)
 
-<a href="https://github.com/rishavnathpati">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavnathpati&theme=dark&hide_langs_below=1" />
-</a>
+- 🤝 I’m looking for help with **Web Development**
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rishavnathpati&show_icons=true&theme=radical)
+- 💬 Ask me about **Unity, JAVA, Python, C#**
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rishav-nath-p-67223bb9/)
-[![Discord](https://img.shields.io/badge/-Discord-blueviolet?style=flat&labelColor=blueviolet&logo=Discord&logoColor=white)](https://discord.gg/HTUu7xWw)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:@patirishavnath@gmail.com)
+- 📫 How to reach me **patirishavnath@gmail.com**
+
+- ⚡ Fun fact **Code is like humor. When you have to explain it, it’s bad.**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/rishav nath pati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rishav nath pati" height="30" width="40" /></a>
+<a href="https://twitter.com/rishavnathpati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavnathpati" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rishav nath pati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav nath pati" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/rishav nath pati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rishav nath pati" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavnathpati&show_icons=true&locale=en&layout=compact" alt="rishavnathpati" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavnathpati&show_icons=true&locale=en" alt="rishavnathpati" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishavnathpati" alt="rishavnathpati" /></a> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavnathpati&" alt="rishavnathpati" /></p>
