@@ -28,7 +28,7 @@
 <p align="left">
 <a href="https://dev.to/rishav nath pati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rishav nath pati" height="30" width="40" /></a>
 <a href="https://twitter.com/rishavnathpati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavnathpati" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rishav nath pati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav nath pati" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rishav-n-67223bb9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav nath pati" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9881499/rishav-nath-pati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rishav nath pati" height="30" width="40" /></a>
 </p>
 
