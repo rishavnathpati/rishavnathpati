@@ -3,6 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavnathpati&label=Profile%20views&color=0e75b6&style=flat" alt="rishavnathpati" /> </p>
 
+  <a href="https://app.daily.dev/rishavnathpati" target="_blank">
+    <img
+      width="370"
+      align="right"
+      src="https://api.daily.dev/devcards/fa103513d2ef43e7a6e50c479883e3ba.png"
+    />
+  </a>
+</div>
 
 <p align="left"> <a href="https://twitter.com/rishavnathpati" target="blank"><img src="https://img.shields.io/twitter/follow/rishavnathpati?logo=twitter&style=for-the-badge" alt="rishavnathpati" /></a> </p>
 
