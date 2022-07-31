@@ -9,7 +9,7 @@ Game Developer | Unity | 2D,3D,AR/VR | C#>Python>JAVA>C++>C | ! an "ML Enthusias
     <img
       width="400"
       align="right"
-      src="https://api.daily.dev/devcards/fa103513d2ef43e7a6e50c479883e3ba.png" alt="Rishav Nath Pati's Dev Card"
+      src="https://api.daily.dev/devcards/fa103513d2ef43e7a6e50c479883e3ba.png?r=6j3" alt="Rishav Nath Pati's Dev Card"
     />
   </a>
 </div>
