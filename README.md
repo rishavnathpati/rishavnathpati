@@ -14,6 +14,8 @@ Game Developer | Unity | 2D,3D,AR/VR | C#>Python>JAVA>C++>C | ! an "ML Enthusias
   </a>
 </div>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pjezynd6iht6ys6q9pa02h5ob&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=pjezynd6iht6ys6q9pa02h5ob&redirect=true)
+
 <p align="left"> <a href="https://twitter.com/rishavnathpati" target="blank"><img src="https://img.shields.io/twitter/follow/rishavnathpati?logo=twitter&style=for-the-badge" alt="rishavnathpati" /></a> </p>
 
 - 🔭 I’m currently working on [Jade Engine](https://github.com/rishavnathpati/Jade-Engine)
