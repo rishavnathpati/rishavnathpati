@@ -4,7 +4,7 @@
 Game Developer | Unity | 2D,3D,AR/VR | C# > Python > JAVA > C++ > C | ! an "ML Enthusiast"</h3>
 
 
-- 🔭 I’m currently working as a GameDev at Convai.
+- 🔭 I’m currently working as a GameDev at [Convai](https://convai.com/).
 
 - Was working on [Jade Engine](https://github.com/rishavnathpati/Jade-Engine) (Dropped due to unstability in M1 Mac)
 
