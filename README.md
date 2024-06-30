@@ -8,7 +8,7 @@ GameDev engineer with over 2.5 years of professional experience in Unity SDK dev
 
 <a href="https://app.daily.dev/rishavnathpati"><img src="https://api.daily.dev/devcards/v2/oFTMjNScmNdjJKfNy1cOt.png?r=j7r&type=wide" width="652" alt="Rishav Nath Pati's Dev Card"/></a>
 
-[![@rishavnathpati's Holopin board](https://holopin.io/api/user/board?user=rishavnathpati)](https://holopin.io/@rishavnathpati)
+[![An image of @rishavnathpati's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishavnathpati)](https://holopin.io/@rishavnathpati)
 
 <img src="https://komarev.com/ghpvc/?username=rishavnathpati&label=Profile%20views&color=0e75b6&style=flat" alt="rishavnathpati" />
 
