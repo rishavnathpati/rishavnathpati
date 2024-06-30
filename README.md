@@ -28,7 +28,7 @@ GameDev engineer with over 2.5 years of professional experience in Unity SDK dev
 | Tools | Git, Linux, Photoshop |
 
 ## Featured Projects
-- [Jade Engine](https://github.com/rishavnathpati/Jade-Engine) - A custom game engine (currently on hold, planned to resume soon)
+ [Jade Engine](https://github.com/rishavnathpati/Jade-Engine) - A custom game engine (currently on hold, planned to resume soon)
 
 ## Languages and Tools
 <p>
