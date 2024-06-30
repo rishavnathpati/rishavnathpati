@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Rishav Nath Pati
 
-## Interactive Media Developer @ Convai | Unity | 2D,3D,AR/VR | C#>Python>JAVA>C>C++ |
+## Interactive Media Developer @ Convai | Unity | 2D,3D,AR/VR | C#>Python>JAVA>C>C++
 
 GameDev engineer with over 2.5 years of professional experience in Unity SDK development. My passion lies in creating immersive experiences through game development, with a focus on Unity and expanding into Android development. Currently working as an Interactive Media Developer at [Convai](https://convai.com/).
 
