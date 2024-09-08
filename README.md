@@ -4,7 +4,9 @@
 
 ## Interactive Media Developer @ Convai | Unity | 2D,3D,AR/VR | C#>Python>JAVA>C>C++
 
-GameDev engineer with over 2.5 years of professional experience in Unity SDK development. My passion lies in creating immersive experiences through game development, with a focus on Unity and expanding into Android development. Currently working as an Interactive Media Developer at [Convai](https://convai.com/).
+GameDev engineer with over 3.5 years of professional experience in Unity SDK development. My passion lies in creating immersive experiences through game development, with a focus on Unity and expanding into Android development. Currently working as an Interactive Media Developer at [Convai](https://convai.com/).
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Game+Development+Engineer;Unity+SDK+Specialist;AR%2FVR+Enthusiast;Always+Learning%2C+Always+Coding" alt="Typing SVG" />
 
 <a href="https://app.daily.dev/rishavnathpati"><img src="https://api.daily.dev/devcards/v2/oFTMjNScmNdjJKfNy1cOt.png?r=j7r&type=wide" width="652" alt="Rishav Nath Pati's Dev Card"/></a>
 
